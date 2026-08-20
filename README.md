@@ -1,6 +1,6 @@
 
 Hi there, I’m Okoro Ezichi David 👋
-        A junior Full-stack Software Engineer.
+        A junior Software Engineer.
 
 - 🔭 I’m currently working on my first application 
 - 🌱 I’m currently learning everyday 
