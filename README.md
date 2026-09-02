@@ -7,6 +7,7 @@ Hi there, I’m Okoro Ezichi David 👋
 - 👯 I’m looking to collaborate on more real world projects
 - 🤔 I’m looking for help with cybersecurity
 - 📫 How to reach me:
+ Email : Okorowhyme234@gmail.com
  Linkedln: https://www.linkedin.com/in/%20daviz8
   Twitter: https://twitter.com/__Daviz?t=KtrWhcY5Jom0M1kWS2ZTEQ&s=09
 - ⚡ Fun fact: I am Also a Musician.
