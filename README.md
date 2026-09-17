@@ -1,5 +1,5 @@
 
-Hi there, I’m Okoro Ezichi David 👋
+Hi there, I am Okoro Ezichi David 👋
         A junior Software Engineer.
 
 - 🔭 I’m currently working on my first application 
