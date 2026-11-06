@@ -2,7 +2,7 @@
 Hi there, I am Okoro Ezichi David 👋
         A junior Software Engineer.
 
-- 🔭 I’m currently working on my first application 
+- 🔭 I’m currently working on my application 
 - 🌱 I’m currently learning everyday 
 - 👯 I’m looking to collaborate on more real world projects
 - 🤔 I’m looking for help with cybersecurity
